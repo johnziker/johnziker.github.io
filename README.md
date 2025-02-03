@@ -6,7 +6,8 @@ I am Professor in the [Department of Anthropology](https://www.boisestate.edu/an
 I use multiple methods in my research include participant observation and ethnography, experimental games, reproductive histories and demography, and social network analysis.
 
 Here are some courses I enjoy teaching:
-| Level | Favorite Courses |
+
+| Rank | Favorite Courses |
 |-----:|---------------|
 |     1|    Kinship and Social Organization           |
 |     2|    Research Design           |
