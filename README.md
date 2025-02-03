@@ -13,3 +13,4 @@ Here are some courses I enjoy teaching:
 |     2|    Research Design           |
 |     3|    Magic, Witchcraft and Religion           |
 |     4|    Cultural Anthropology           |
+|     5|    Environmental Anthropology           |
