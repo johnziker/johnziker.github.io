@@ -7,14 +7,6 @@ My current research projects include [NSF EAGER DLC SaTC](https://www.nsf.gov/aw
 
 I use and teach multiple methods in my research include participant observation and ethnography, experimental games, reproductive histories and demography, and social network analysis.
 
-Here are some courses I enjoy teaching:
+I am an advocate for reproducible science and encourage my students to learn R, LaTeX, and other tools to improve workflows.
 
-| Rank | Favorite Courses |
-|-----:|---------------|
-|     1|    Kinship and Social Organization           |
-|     2|    Research Design           |
-|     3|    Magic, Witchcraft and Religion           |
-|     4|    Cultural Anthropology           |
-|     5|    Environmental Anthropology           |
-
-Prospective students can write to me: jziker@boisestate.edu
+Feel free write to me: jziker@boisestate.edu
