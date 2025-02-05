@@ -9,6 +9,6 @@ My research focuses on social networks and cooperation, climate change adaptatio
 
 I use and teach multiple methods in my research include participant observation and ethnography, experimental games, reproductive histories and demography, and social network analysis.
 
-I am an advocate for reproducible science and encourage my students to learn R, LaTeX, and other tools to improve workflows.
+I am an advocate for reproducible science and encourage my students to learn R, LaTeX, and other tools to streamline and reproduce workflows.
 
 Please feel free write to me here: jziker@boisestate.edu
