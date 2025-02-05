@@ -1,7 +1,7 @@
 # Anthropologist
 I am Professor in the [Department of Anthropology](https://www.boisestate.edu/anthropology/) at Boise State University in Boise, Idaho, USA. 
 
-I conducted ethnographic research in northern Siberia in the 1990s and eary 2000s. My book [_Peoples of the Tundra_](https://www.waveland.com/browse.php?t=30) summarizes that work.
+I conducted ethnographic research in northern Siberia with Indigenous hunter-fisher-trappers in the 1990s and eary 2000s. My book [_Peoples of the Tundra_](https://www.waveland.com/browse.php?t=30) summarizes that work.
 
 My current research projects include [NSF EAGER DLC SaTC](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2210082) and [NSF NNA](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2126794). I am also a contributor to the [ENDOW](https://endowproject.github.io/) project, where I am conducting research in central Mozambique with Sena people. 
 
